@@ -1,2 +1,2 @@
-# Oprating-System-Algorithms
+# Operating-System-Algorithms
 This Repo Consists of Source code of Process Scheduling Algorithms (FCFS,SJF,SRTF,Priority,Round Robin), Deadlock Prevention &amp; Detection Algorithm - Safety Algorithms, Memory Allocation Schemes (First Fit, Best Fit, Worst Fit), Page Replacement Algorithms (FCFS, LRU, Optimal ) and Disk Scheduling Algorithms and Many More ......
