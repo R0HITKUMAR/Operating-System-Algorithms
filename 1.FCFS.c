@@ -36,7 +36,7 @@ void main()
     avgWT = avgWT/n;
     avgTAT = avgTAT/n;
     // STDOUT
-    printf("\n\t\tAT\tBT\tWT\tTAT\n");
+    printf("\n\tAT\tBT\tWT\tTAT\n");
     for(int i=0;i<n;i++)
         printf("P[%d]\t%d\t%d\t%d\t%d\n",i,AT[i],BT[i],WT[i],TAT[i]);
     printf("\nAverage WT : %f Units\n",avgWT);
